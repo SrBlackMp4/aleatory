@@ -173,7 +173,7 @@ const menulogos = (prefix) => {
 ➟/steel (txt)  
 
 ┏━━━━ • ✿ • ━━━━┓
-      🌸 𝙰𝙻𝙱𝙴𝙳𝙾 🌸
+      BLACK-BOT
 ┗━━━━ • ✿ • ━━━━┛
 
 ✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏`

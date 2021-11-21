@@ -619,7 +619,7 @@ const menucmds = (prefix) => {
 para ver os menus organizados
 
 ┏━━━━ • ✿ • ━━━━┓
-      🌸 𝙰𝙻𝙱𝙴𝙳𝙾 🌸
+      BLACK-BOT
 ┗━━━━ • ✿ • ━━━━┛
 
 ✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏`

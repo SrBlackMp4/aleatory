@@ -79,7 +79,7 @@ const menudono = (prefix) => {
 ➟ ${prefix}transmitir2 (marcar)
 
 ┏━━━━ • ✿ • ━━━━┓
-      🌸 𝙰𝙻𝙱𝙴𝙳𝙾 🌸
+      BLACK-BOT
 ┗━━━━ • ✿ • ━━━━┛
 
 ✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏`

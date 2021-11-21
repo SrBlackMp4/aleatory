@@ -36,7 +36,7 @@ const menuhentai = (prefix) => {
 ➟ ${prefix}plaq3 (nome)
 
 ┏━━━━ • ✿ • ━━━━┓
-      🌸 𝙰𝙻𝙱𝙴𝙳𝙾 🌸
+     BLACK-BOT
 ┗━━━━ • ✿ • ━━━━┛
 ✎﹏﹏﹏﹏﹏﹏﹏﹏﹏`
 

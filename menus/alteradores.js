@@ -29,7 +29,7 @@ return`
 ➟${prefix}vozmenino (marca)
 
 ┏━━━━ • ✿ • ━━━━┓
-      🌸 𝙰𝙻𝙱𝙴𝙳𝙾 🌸
+      BLACK-BOT
 ┗━━━━ • ✿ • ━━━━┛
 
 ✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏`

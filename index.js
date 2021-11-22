@@ -1821,7 +1821,7 @@ imageMsg = (await conn.prepareMessageMedia(fs.readFileSync(`./logos/logo.jpg`), 
 
 buttonsMessage = {
 contentText: menu1(prefix),
-footerText: '™ꪶ࿋྄ིᤢꫂ๖ۣۜ𝐴𝑙𝑏𝑒𝑑𝑜 ᴮᵒᵗ♡¸.•*', imageMessage: imageMsg,
+footerText: 'BLACK-BOT', imageMessage: imageMsg,
 buttons: buttons,
 headerType: 4
 }
